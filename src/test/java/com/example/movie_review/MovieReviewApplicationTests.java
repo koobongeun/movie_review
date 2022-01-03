@@ -8,6 +8,7 @@ class MovieReviewApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("contextLoads...");
     }
 
 }
